@@ -1,16 +1,12 @@
-### Welcome👋
+### Welcome👋 and Thank you for Visting!
 
-<!--
-**arpand96/arpand96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Please indulge yourself in projects utilizing ML techniques to providing actionable solutions to different business problems.
 
-Here are some ideas to get you started:
+💞️ I'm passionate about the use cases of AI and its applicability in the manufacturing sector. 
+👀 I want to leverage data to uncover insights in business problems and provide robust solutions for improving efficiency of production flows. 
 
-- 🔭 I’m currentlysss working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ssss
--->
+Let's chat!
+arpan.dinesh23@gmail.com
+https://www.linkedin.com/in/arp-dinesh/
++1-765-775-0602
+
