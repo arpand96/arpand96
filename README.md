@@ -1,8 +1,8 @@
 ### Welcome👋 and Thank you for Visiting!
 
-Please indulge yourself in projects utilizing ML techniques that provide actionable solutions to business problems.
+Please indulge yourself in projects leveraging data science and analytics to provide actionable solutions to business problems.
 
-👀 I want to leverage data to uncover insights that provide robust solutions for improving the efficiency of business operations.<br>
+👀 I want to utilize data techniques to uncover insights that provide robust solutions for improving the efficiency of business operations.<br>
 
 Let's chat!  
 📧 arpan.dinesh23@gmail.com  
